@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/odlara/static/css/main.d1b05096.chunk.css",
+    "main.js": "/odlara/static/js/main.aa68ae07.chunk.js",
+    "main.js.map": "/odlara/static/js/main.aa68ae07.chunk.js.map",
+    "runtime-main.js": "/odlara/static/js/runtime-main.1f11e86a.js",
+    "runtime-main.js.map": "/odlara/static/js/runtime-main.1f11e86a.js.map",
+    "static/js/2.84bfeb7c.chunk.js": "/odlara/static/js/2.84bfeb7c.chunk.js",
+    "static/js/2.84bfeb7c.chunk.js.map": "/odlara/static/js/2.84bfeb7c.chunk.js.map",
+    "index.html": "/odlara/index.html",
+    "precache-manifest.89034f969b88a8a15597a89613116df5.js": "/odlara/precache-manifest.89034f969b88a8a15597a89613116df5.js",
+    "service-worker.js": "/odlara/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/odlara/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.84bfeb7c.chunk.js.LICENSE.txt": "/odlara/static/js/2.84bfeb7c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/odlara/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f11e86a.js",
+    "static/js/2.84bfeb7c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.aa68ae07.chunk.js"
+  ]
+}
